@@ -25,7 +25,7 @@ SECRET_KEY = ')@t$3hevg(^miv@t#8j+@sk=0rhj*@jk38d5w5^=f$#jy%v#y5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['biomarkers.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
