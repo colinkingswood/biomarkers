@@ -26,7 +26,7 @@ headings = ['pmid' ,
             'notes' ,        
 ]
 
-file = 'plasma.biomarkers.csv' 
+file = 'rbj/plasma.biomarkers.csv' 
 
 
 
