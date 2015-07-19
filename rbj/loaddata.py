@@ -26,7 +26,7 @@ headings = ['pmid' ,
             'notes' ,        
 ]
 
-file = '/home/colin/Downloads/plasma.biomarkers.csv' 
+file = 'plasma.biomarkers.csv' 
 
 
 
