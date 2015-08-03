@@ -1,0 +1,63 @@
+PMID	Transcript	ENSEMBL ID	Biotype	Direction	Disease	Fluid	Date Annotated	Notes	Patients	Controls	Method	Primer F	Primer R
+26139386	NEAT1	ENSG00000245532	lncRNA		HIV	Plasma	18/7/15		59 (31 no HAART / 28 HAART)	21	qRTPCR		
+26139386	MALAT1	ENSG00000279576	lncRNA		HIV	Plasma	18/7/15				qRTPCR		
+26096073	H19	ENSG00000130600	lncRNA	up	Gastric Cancer	Plasma	18/7/15		70	70	qRTPCR		
+25608466	POU3F3	ENSG00000235597	lncRNA	up	esophageal squamous cell carcinoma	Plasma	18/7/15	Need to check which gene exactly this is					
+25608466	HNF1A-AS1	ENSG00000241388	lncRNA	up	esophageal squamous cell carcinoma	Plasma	18/7/15						
+25608466	SPRY4-IT1	ENSG00000281881	lncRNA	up	esophageal squamous cell carcinoma	Plasma	18/7/15						
+25476897	Linc00974	ENSG00000226629	lncRNA		hepatocellular carcinoma	Plasma	18/7/15						
+24961353	FER1L4	ENSG00000088340	lncRNA	Only changes after surgery	Gastric Cancer	Plasma	18/7/15				qRTPCR		
+24519926	PCAT18	ENSG00000265369	lncRNA	up	metastatic prostate cancer	Plasma	18/7/15						
+23762823	HULC	ENSG00000276019	lncRNA	up	hepatocellular carcinoma	Plasma	18/7/15						
+23726266	MALAT1	ENSG00000279576	lncRNA	up	prostate cancer	Plasma	18/7/15						
+24663402	LIPCAR		lncRNA	up	heart failure	Plasma	18/7/15					TAAAGGATGCGTAGGGATGG	TTCATGATCACGCCCTCATA
+25929808	RP11-445H22.4	ENSG00000244558	lncRNA	up	breast cancer	Serum	18/7/15				qRTPCR		
+25597901	FR0348383		lncRNA	up	prostate cancer	Urine	18/7/15						
+25526029	MALAT-1	ENSG00000279576	lncRNA	up	prostate cancer	Urine	18/7/15						
+25391424	LINC00152	ENSG00000222041	lncRNA	up	Gastric Cancer	Plasma	18/7/15						
+25157805	XIST	ENSG00000229807	lncRNA	up	glomerular nephritis	Urine	18/7/15						
+25694351	CUDR (UCA1)	ENSG00000273782	lncRNA	up	Gastric Cancer	Serum	18/7/15				qRTPCR	GCTGACTCTCTTTTCAGACTCAGCC	TTTCGTCTGACTCTTTTAGGAAGATTTC
+25694351	LSINCT-5	ENSG00000281560	lncRNA	up	Gastric Cancer	Serum	18/7/15				qRTPCR		
+25694351	PTENP1	ENSG00000237984	lncRNA	up	Gastric Cancer	Serum	18/7/15				qRTPCR		
+25294924	TapSAKI	ENSG00000227188	lncRNA	up	acute kidney injury	Plasma	18/7/15	Check gene profiling method					
+24986041	AA174084		lncRNA	down	Gastric Cancer	Gastric Juice	18/7/15						
+25501706	lncRNA-uc003wbd		lncRNA	up	hepatocellular carcinoma	Serum	18/7/15						
+25501706	AF085935		lncRNA	up	hepatocellular carcinoma	Serum	18/7/15						
+24583225	LincRNA-p21		lncRNA		CLL	Plasma	18/7/15					GGGTGGCTCACTCTTCTGGC	TGGCCTTGCCCGGGCTTGTC
+24583225	TUG1	ENSG00000253352	lncRNA	up	Multiple myeloma	Plasma	18/7/15						
+23898077	H19	ENSG00000130600	lncRNA	up	Gastric Cancer	Plasma	18/7/15						
+16914571	UCA1	ENSG00000273782	lncRNA	up	bladder transitional cell carcinoma	Urine sediments	18/7/15				qRTPCR		
+25366139	HOTAIR	ENSG00000228630	lncRNA	up	Cervical Cancer	Serum	18/7/15				qRTPCR		
+25097049	hTERT		mRNA	up	hepatocellular carcinoma	Serum	18/7/15				qRTPCR		
+25064732	PDK1	ENSG00000152256	mRNA	up	non-small cell lung cancer	Serum	18/7/15				qRTPCR		
+25054051	Bmi1	ENSG00000168283	mRNA	patients with higher postoperative levels have worse prognosis	Colorectal Cancer	Plasma	18/7/15						
+24338523	BIRC5	ENSG00000089685	mRNA	patients with higher levels have worse OS	Colorectal Cancer	Serum	18/7/15						
+24144866	CD2AP	ENSG00000198087	mRNA	down	Kidney Disease	Urinary exosomes	18/7/15				qRTPCR		
+25980316	FAM84B	ENSG00000168672	mRNA	down	Esophageal Squamous Cell Carcinoma, response to Neoadjuvant Chemoradiation	Serum	18/7/15				qRTPCR		
+24058517	HERV-K		mRNA	up	breast cancer	Serum	18/7/15						
+23857158	ADAM9	ENSG00000168615	mRNA	up	pulmonary sarcoidosis	Serum	18/7/15						
+22916267	hTERT		mRNA	up	prostate cancer	Plasma	18/7/15						
+22422354	thymidylate synthase (TS)	ENSG00000176890	mRNA	down	Gastric Cancer, raltitrexed response	Plasma	18/7/15						
+21656524	STC1	ENSG00000159167	mRNA	up	non-small cell lung cancer	UNCLEAR	18/7/15						
+15777973	hnRNP B1		mRNA	up	Lung Cancer	Plasma	18/7/15						
+17052260	hTERT		mRNA	up	Lung Cancer	Serum	18/7/15						
+17052260	EGFR	ENSG00000146648	mRNA	up	Lung Cancer	Serum	18/7/15						
+17273731	hTERT		mRNA	up	gynecologic malignancies	Serum	18/7/15						
+19217595	PLAT	ENSG00000104368	mRNA	up	preeclampsia	Plasma	18/7/15						
+19217595	SERPINE1	ENSG00000106366	mRNA	up	preeclampsia	Plasma	18/7/15						
+19217595	FLT1	ENSG00000102755	mRNA	up	preeclampsia	Plasma	18/7/15						
+19217595	VEGFA	ENSG00000112715	mRNA	up	preeclampsia	Plasma	18/7/15						
+19217595	Endoglin	ENSG00000106991	mRNA	up	preeclampsia	Plasma	18/7/15						
+19217595	SELP	ENSG00000174175	mRNA	up	preeclampsia	Plasma	18/7/15						
+19217595	PLAC1	ENSG00000170965	mRNA	up	preeclampsia	Plasma	18/7/15						
+17255261	mtRNA; cytochrome c oxidase subunit 1		mRNA	up	prostate cancer: survival	Plasma	18/7/15						
+24643113	Albumin	ENSG00000163631	mRNA	up	Chronic hepatitis B & C	Plasma	18/7/15						
+24643113	HP	ENSG00000257017	mRNA	up	Chronic hepatitis B & C	Plasma	18/7/15						
+24643113	CYP2E1	ENSG00000130649	mRNA	up	Chronic hepatitis B & C	Plasma	18/7/15						
+24643113	APOA2	ENSG00000158874	mRNA	up	Chronic hepatitis B & C	Plasma	18/7/15						
+16505414	ARHA	ENSG00000067560	mRNA	up	Oral squamous cell carcinoma	Serum	18/7/15	Create signature					
+16505414	FTH1	ENSG00000167996	mRNA	up	Oral squamous cell carcinoma	Serum	18/7/15						
+16505414	H3F3A	ENSG00000163041	mRNA	up	Oral squamous cell carcinoma	Serum	18/7/15						
+16505414	TPT1	ENSG00000133112	mRNA	up	Oral squamous cell carcinoma	Serum	18/7/15						
+16505414	COX4I1	ENSG00000131143	mRNA	up	Oral squamous cell carcinoma	Serum	18/7/15						
+16505414	FTL1	ENSG00000102755	mRNA	up	Oral squamous cell carcinoma	Serum	18/7/15						
